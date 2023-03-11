@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✍️ About Me:
 📚 I’m currently pursuing a MSC degree in Computers and Telematics Engineering at Universidade de Aveiro.<br>
 🔭 I have a passion for programming and particularly enjoy working with Python. I find the language intuitive and powerful, and I love the ability to solve complex problems with clean, concise code.<br>
 🌱 In addition to my programming skills, I have a keen interest in dev ops. I am always curious about the best practices for software development and deployment, and I enjoy learning about new tools and technologies that can help streamline the process.<br>
