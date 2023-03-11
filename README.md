@@ -1,9 +1,7 @@
 # 💫 About Me:
-🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-📚 I’m currently pursuing a MSC degree in Computers and Telematics Engineering at Universidade de Aveiro.
-🔭 I have a passion for programming and particularly enjoy working with Python. I find the language intuitive and powerful, and I love the ability to solve complex problems with clean, concise code.
-🌱 In addition to my programming skills, I have a keen interest in dev ops. I am always curious about the best practices for software development and deployment, and I enjoy learning about new tools and technologies that can help streamline the process.
-
+📚 I’m currently pursuing a MSC degree in Computers and Telematics Engineering at Universidade de Aveiro.<br>
+🔭 I have a passion for programming and particularly enjoy working with Python. I find the language intuitive and powerful, and I love the ability to solve complex problems with clean, concise code.<br>
+🌱 In addition to my programming skills, I have a keen interest in dev ops. I am always curious about the best practices for software development and deployment, and I enjoy learning about new tools and technologies that can help streamline the process.<br>
 👨‍💻 Throughout my studies, I have gained experience in a variety of areas, including data structures, algorithms, and software engineering principles. I am always looking for new challenges and opportunities to apply my skills and knowledge, and I am excited about the potential for technology to transform the world we live in.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaelsdias24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeldsdias) 
