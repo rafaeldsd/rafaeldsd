@@ -1,22 +1,29 @@
-# ✍️ About Me:
-📚 I’m currently pursuing a MSC degree in Computers and Telematics Engineering at Universidade de Aveiro.<br>
-🔭 I have a passion for programming and particularly enjoy working with Python. I find the language intuitive and powerful, and I love the ability to solve complex problems with clean, concise code.<br>
-🌱 In addition to my programming skills, I have a keen interest in machine learning. I am always curious about the best practices for software development and deployment, and I enjoy learning about new tools and technologies that can help streamline the process.<br>
-👨‍💻 Throughout my studies, I have gained experience in a variety of areas, including data structures, algorithms, and software engineering principles. I am always looking for new challenges and opportunities to apply my skills and knowledge, and I am excited about the potential for technology to transform the world we live in.
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaelsdias24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeldsdias) 
+# ⚡ Rafael Dias | Backend & Systems Engineer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafaeldsd&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafaeldsd&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldsd&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Building high-performance, scalable, and vendor-agnostic network infrastructure.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rafaeldsd&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Current Focus
+Currently at **Altice Labs**, architecting the **Broadband Access Abstraction (BAA)** layer. I focus on modernizing legacy infrastructure by building high-concurrency microservices in **Go**. My daily work revolves around carrier-grade reliability, container orchestration, and enabling multi-vendor hardware interoperability (Nokia, Commscope) via standardized protocols.
 
----
-[![](https://visitcount.itsvg.in/api?id=rafaeldsd&icon=6&color=6)](https://visitcount.itsvg.in)
+## 🛠️ Core Tech Stack
+* **Languages:** Go (Golang), Java (Spring Boot), Python, SQL (PostgreSQL).
+* **Infrastructure & Cloud:** Docker, Kubernetes, Apache Kafka, Prometheus.
+* **Protocols & Architecture:** NETCONF, YANG, REST API, Microservices.
+* **AI & Machine Learning:** TensorFlow, Keras.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 Engineering Highlights
+* **Distributed Cloud File Manager:** Engineered a Spring Boot microservices architecture, fully containerized and orchestrated with Docker and Kubernetes for automated scalability.
+* **V2X Medical Emergency System:** Architected a real-time full-stack communication system (React/Flask) to aggressively reduce latency in vehicular safety and multimedia alerts.
+* **Intel Image Classification:** Developed and trained robust Deep Learning models (ResNet50, VGG16) achieving high precision in complex categorization.
+
+## 🧠 Academic Foundation
+* **Master in Computer and Telematics Engineering** — Universidade de Aveiro (Grade: 17/20)
+* **Dissertation:** Reinforcement Learning Applied to Board Games.
+
+## 📈 Beyond the Terminal
+Building scalable systems requires the same discipline as my life outside the screen.
+* **Interests:** Soccer (Team Dynamics), Marathon Running (Extreme Discipline), Poker (Risk & Strategy), Snowboarding.
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TEU_LINK_AQUI)
+* **Email:** rafaelsdias.tech@gmail.com
