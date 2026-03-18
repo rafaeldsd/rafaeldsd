@@ -25,5 +25,5 @@ Building scalable systems requires the same discipline as my life outside the sc
 * **Interests:** Soccer (Team Dynamics), Marathon Running (Extreme Discipline), Poker (Risk & Strategy), Snowboarding.
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldsdias/)
 * **Email:** rafaelsdias.tech@gmail.com
