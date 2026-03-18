@@ -7,7 +7,7 @@ Currently at **Altice Labs**, architecting the **Broadband Access Abstraction (B
 
 ## 🛠️ Core Tech Stack
 * **Languages:** Go (Golang), Java (Spring Boot), Python, SQL (PostgreSQL).
-* **Infrastructure & Cloud:** Docker, Kubernetes, Apache Kafka, Prometheus.
+* **Infrastructure & Cloud:** Docker, Kubernetes.
 * **Protocols & Architecture:** NETCONF, YANG, REST API, Microservices.
 * **AI & Machine Learning:** TensorFlow, Keras.
 
