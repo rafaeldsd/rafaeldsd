@@ -3,7 +3,7 @@
 Building high-performance, scalable, and vendor-agnostic network infrastructure.
 
 ## 🚀 Current Focus
-Currently at **Altice Labs**, architecting the **Broadband Access Abstraction (BAA)** layer. I focus on modernizing legacy infrastructure by building high-concurrency microservices in **Go**. My daily work revolves around carrier-grade reliability, container orchestration, and enabling multi-vendor hardware interoperability (Nokia, Commscope) via standardized protocols.
+Currently at **Altice Labs**, architecting the **Broadband Access Abstraction (BAA)** layer. I focus on modernizing legacy infrastructure by building high-concurrency microservices in **Go**. My daily work revolves around carrier-grade reliability, container orchestration, and enabling multi-vendor hardware interoperability via standardized protocols.
 
 ## 🛠️ Core Tech Stack
 * **Languages:** Go (Golang), Java (Spring Boot), Python, SQL (PostgreSQL).
